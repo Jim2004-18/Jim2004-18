@@ -1,16 +1,35 @@
-## Hi there 👋
+💻 Sobre mí
 
-<!--
-**Jim2004-18/Jim2004-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Domenica Iturralde, una futura ingeniera en software. Mi enfoque está en crear soluciones escalables, eficientes y mantenibles que resuelvan problemas del mundo real. Me encanta aprender nuevas tecnologías y colaborar en proyectos innovadores.
 
-Here are some ideas to get you started:
+🚀 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes de Programación:
+
+	•	Frontend: HTML5, JavaScript
+	•	Backend: Java
+	•	Bases de Datos: SyBase
+
+Frameworks y Tecnologías:
+
+	•	DevOps: Docker, Kubernetes
+
+Otras herramientas:
+
+	•	Git, Jira, VS Code
+
+🌱 En lo que estoy trabajando actualmente
+
+	•	Mejorando mis habilidades en inteligencia artificial.
+
+💼 Experiencia Profesional
+
+	•	Tipadeka: Analista de cotroller/ Calidad de software.
+	
+📚 Educación
+
+	•	1 er semestre en UNEMI.
+
+📫 Contáctame
+
+	•	Correo: domemerchan18@gmail.com
